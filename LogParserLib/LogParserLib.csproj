@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net461;netcoreapp2.0</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlgosLibrary">
+      <HintPath>..\Libs\AlgosLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
